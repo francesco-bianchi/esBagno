@@ -1,7 +1,5 @@
 package com.example;
 
-import java.util.ArrayList;
-
 public class ThreadB extends Thread {
     private Bagno b;
     private String name;
